@@ -12,5 +12,10 @@ namespace TestCommon
         {
 
         }
+
+        public bool NizzleShizzle()
+        {
+            return true;
+        }
     }
 }
